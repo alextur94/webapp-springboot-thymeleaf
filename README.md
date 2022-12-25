@@ -1,5 +1,5 @@
 # Readme File
-### A simple Spring Boot application + SQL query.
+### A simple Spring Boot + Thymeleaf application.
 ### [Look on Youtube](https://youtu.be/gWcc6jj9Hgg)
 
 Dependencies:
